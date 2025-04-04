@@ -1,0 +1,1 @@
+# Stellar Smart MCP Demo
